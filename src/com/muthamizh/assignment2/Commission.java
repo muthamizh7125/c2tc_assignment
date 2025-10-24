@@ -9,7 +9,6 @@ class Commission {
     // Method to accept details
     void acceptDetails() {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter Name: ");
         name = sc.nextLine();
 
